@@ -12,11 +12,17 @@ This is a Flask-based web application for predicting stock prices using historic
 
 ## Prerequisites  
 - Python 3.8 or higher  
-- Pip for managing Python packages  
+- Pip for managing Python packages
+  
+## Run code Proceess 
+-index.html file add on sub-directory file  "templates"
+-open app.py run in terminal 
+-python app.py
 
 ## Installation  
 
 1. Clone this repository:  
    ```bash
    git clone https://github.com/bandanasahu61/Stock-Price-Prediction
-   cd flask-stock-predictor
+   cd stock
+   
